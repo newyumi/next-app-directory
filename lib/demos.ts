@@ -9,9 +9,9 @@ export const demos: { name: string; items: Item[] }[] = [
     name: 'Starter',
     items: [
       {
-        name: '목적',
-        slug: 'starter',
-        description: '',
+        name: 'Purpose',
+        slug: 'purpose',
+        description: 'Study for Next.js v14 routes and sample pages',
       },
     ],
   },
